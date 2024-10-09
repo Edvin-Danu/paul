@@ -1,0 +1,7 @@
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+X:\2024_06_09 c# project2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
